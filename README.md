@@ -15,7 +15,7 @@
 
 1. Download or clone this repository:
     ```bash
-    git clone https://github.com/yourusername/simple-login-page.git
+    [git clone https://github.com/yourusername/simple-login-page.git](https://github.com/Sravya263/Loginpage.git)
     ```
 
 2. Open the folder and double-click `index.html` to open in a browser.
